@@ -2,7 +2,7 @@
 GitHub del canal de Youtube X-Plane Español sobre SimVimCockpit.
 **********************************************************
 Youtube: https://youtube.com/c/XplaneEspañol
-Aerolínea Virtual: http://xplane-espanol.cloudns.cc
+Web: https://equisplanespain.com/
 **********************************************************
 Colabora con el canal con tu granito de arena:
 PATREON: https://www.patreon.com/XPlaneEspanol
